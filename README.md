@@ -2,6 +2,7 @@
 
 <p>A user-friendly web application to provide real-time weather forecasts for cities around the globe. Built to help users stay informed about weather conditions, plan their day, and prepare for any weather surprises!</p>
 
+<h2>Website live at: https://harshitj-2005.github.io/weather-forecating-card/</h2>
 
 <h2>🌟 Features</h2>  
 <ul>
