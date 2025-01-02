@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+.card{
+    background: linear-gradient(135deg , #00feba , #5b548a);
+    border: 2px transparent;
+    border-radius: 20px;
+    width: 300px;
+    height: 380px;
+    padding: 20px;
+}
+.search{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5px;
+}
+.search input{
+    width: 230px;
+    height: 30px;
+    border-radius: 30px;
+    border: 2px transparent;
+    font-size: 12px;
+    padding: 5px;
+}
+.search ::placeholder{
+    padding: 10px;
+}
+.search img{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+    background-color: #fff;  
+}
+.search button{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    border: 1px transparent;
+    background-color: #fff;
+}
+.tempimg img{
+    margin-left: 40%;
+    margin-top: 15%;
+    width: 70px;
+    
+}
+.temp h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+.temp h5{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+.weather-info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    margin-top: 50px;
+}
+.info-item{
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+.info-item img{
+    width: 40px;
+    margin-right: 10px;
+    margin: 20px;
+}
+.info-item img{
+    width: 40px;
+    margin-right: 5px;
+    margin-left: 12px;
+}
+.humidity, .wind{
+    font-size: 20px;
+    margin-top: -6px;
+}
