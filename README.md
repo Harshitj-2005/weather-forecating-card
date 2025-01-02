@@ -1,3 +1,4 @@
+
 <h1>🌦️ Weather Forecasting Website</h1>
 
 <p>A user-friendly web application to provide real-time weather forecasts for cities around the globe. Built to help users stay informed about weather conditions, plan their day, and prepare for any weather surprises!</p>
@@ -32,9 +33,4 @@
 ### Prerequisites  
 - Node.js installed on your machine.  
 - API key from [OpenWeatherMap](https://openweathermap.org/api).  
-
-<h2>### Steps</h2>
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/Harshitj-2005/weather-forecasting-website.git  
-   cd weather-forecasting-website  
+ 
