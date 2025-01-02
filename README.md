@@ -4,6 +4,7 @@
 
 <h2>Website live at: https://harshitj-2005.github.io/weather-forecating-card/</h2>
 
+
 <h2>🌟 Features</h2>  
 <ul>
 <li> 🌍 **Global Coverage**: Get weather updates for any city worldwide.</li>
