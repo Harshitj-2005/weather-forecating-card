@@ -2,7 +2,6 @@
 
 <p>A user-friendly web application to provide real-time weather forecasts for cities around the globe. Built to help users stay informed about weather conditions, plan their day, and prepare for any weather surprises!</p>
 
----
 
 <h2>🌟 Features</h2>  
 <ul>
@@ -13,7 +12,7 @@
 <li> 🎨 **Responsive Design**: Optimized for desktops, tablets, and mobile devices.</li>
 <li> 🌈 **Dynamic Backgrounds**: Changes based on current weather conditions.</li>  
 </ul>
----
+
 
 <h2> 🚀 Technologies Used</h2>
 <ul>
@@ -21,13 +20,13 @@
 <li>**API**: OpenWeatherMap API</li> 
 <li>**Hosting**: GitHub Pages</li>
 </ul>
----
+
 
 <h2>📷 Screenshots</h2>
  
 <h4>### City Weather</h4>  
 
----<img width="959" alt="Screenshot 2025-01-02 131034" src="https://github.com/user-attachments/assets/346eabaf-e672-4406-b21f-a7fd1406fe17" />
+<img width="959" alt="Screenshot 2025-01-02 131034" src="https://github.com/user-attachments/assets/346eabaf-e672-4406-b21f-a7fd1406fe17" />
 
 
 <h2>## 🛠️ Installation</h2>
