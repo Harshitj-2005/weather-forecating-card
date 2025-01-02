@@ -17,29 +17,26 @@
 
 <h2> 🚀 Technologies Used</h2>
 <ul>
-<l1> **Frontend**: HTML, CSS, JavaScript</l1>
-<l1> **API**: OpenWeatherMap API</l1> 
-<l1> **Hosting**: GitHub Pages</l1>
+<li> **Frontend**: HTML, CSS, JavaScript</li>
+<li>**API**: OpenWeatherMap API</li> 
+<li>**Hosting**: GitHub Pages</li>
 </ul>
 ---
 
 <h2>📷 Screenshots</h2>
+ 
+<h4>### City Weather</h4>  
 
-### Homepage  
-![Homepage Screenshot](screenshot-homepage.png)  
+---<img width="959" alt="Screenshot 2025-01-02 131034" src="https://github.com/user-attachments/assets/346eabaf-e672-4406-b21f-a7fd1406fe17" />
 
-### City Weather  
-![City Weather Screenshot](screenshot-city-weather.png)  
 
----
-
-## 🛠️ Installation  
+<h2>## 🛠️ Installation</h2>
 
 ### Prerequisites  
 - Node.js installed on your machine.  
 - API key from [OpenWeatherMap](https://openweathermap.org/api).  
 
-### Steps  
+<h2>### Steps</h2>
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/Harshitj-2005/weather-forecasting-website.git  
