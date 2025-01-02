@@ -6,25 +6,24 @@
 
 <h2>🌟 Features</h2>  
 <ul>
-<li>- 🌍 **Global Coverage**: Get weather updates for any city worldwide.</li>
-<li>- 🕒 **Real-Time Data**: Accurate and up-to-date weather conditions.</li>
-<li>- 📆 **Multi-Day Forecasts**: View forecasts for the upcoming days.</li>
-<li>- 📌 **Search Functionality**: Quickly search for your city's weather details.</li>
-<li>- 🎨 **Responsive Design**: Optimized for desktops, tablets, and mobile devices.</li>
-<li>- 🌈 **Dynamic Backgrounds**: Changes based on current weather conditions.</li>  
+<li> 🌍 **Global Coverage**: Get weather updates for any city worldwide.</li>
+<li> 🕒 **Real-Time Data**: Accurate and up-to-date weather conditions.</li>
+<li> 📆 **Multi-Day Forecasts**: View forecasts for the upcoming days.</li>
+<li> 📌 **Search Functionality**: Quickly search for your city's weather details.</li>
+<li> 🎨 **Responsive Design**: Optimized for desktops, tablets, and mobile devices.</li>
+<li> 🌈 **Dynamic Backgrounds**: Changes based on current weather conditions.</li>  
 </ul>
 ---
 
 <h2> 🚀 Technologies Used</h2>
-
-- **Frontend**: HTML, CSS, JavaScript (or React)  
-- **Backend**: Node.js, Express.js (or any preferred framework)  
-- **API**: OpenWeatherMap API (or any weather API of your choice)  
-- **Hosting**: GitHub Pages, Vercel, or AWS  
-
+<ul>
+<l1> **Frontend**: HTML, CSS, JavaScript</l1>
+<l1> **API**: OpenWeatherMap API</l1> 
+<l1> **Hosting**: GitHub Pages</l1>
+</ul>
 ---
 
-## 📷 Screenshots  
+<h2>📷 Screenshots</h2>
 
 ### Homepage  
 ![Homepage Screenshot](screenshot-homepage.png)  
@@ -43,5 +42,5 @@
 ### Steps  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/weather-forecasting-website.git  
+   git clone https://github.com/Harshitj-2005/weather-forecasting-website.git  
    cd weather-forecasting-website  
