@@ -7,10 +7,8 @@
 <ul>
 <li> 🌍 **Global Coverage**: Get weather updates for any city worldwide.</li>
 <li> 🕒 **Real-Time Data**: Accurate and up-to-date weather conditions.</li>
-<li> 📆 **Multi-Day Forecasts**: View forecasts for the upcoming days.</li>
 <li> 📌 **Search Functionality**: Quickly search for your city's weather details.</li>
-<li> 🎨 **Responsive Design**: Optimized for desktops, tablets, and mobile devices.</li>
-<li> 🌈 **Dynamic Backgrounds**: Changes based on current weather conditions.</li>  
+<li> 🎨 **Responsive Design**: Optimized for desktops, tablets, and mobile devices.</li> 
 </ul>
 
 
